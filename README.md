@@ -48,11 +48,11 @@ Criar um painel interativo que permita explorar dados de clientes e vendas, resp
 
 ├── imagens/ # Imagens e/ou GIFs do dashboard
 
-├── README.md # Documentação do projeto
+├── dados_marketing/ # Base de dados fictícia utilizada no projeto
 
 ├── Dash - Marketing_Rev01.pbix # Arquivo do Power BI
 
-└── dados_marketing/ # Base de dados fictícia utilizada no projeto
+└── README.md # Documentação do projeto
 
 ---
 
