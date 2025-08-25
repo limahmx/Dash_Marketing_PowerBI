@@ -22,9 +22,9 @@ Criar um painel interativo que permita explorar dados de clientes e vendas, resp
 - **Tabela de medidas** com fórmulas **DAX** para criação de KPIs personalizados
 - **Tabela Calendário** para organização dos dados em formato de data
 - Design com navegação entre páginas e filtros dinâmicos com uso de **indicadores**
-- Ícones interativos para facilitar a usabilidade
-- Formatação condicional para destaque visual de métricas
-- Dicas de Ferramentas para visualizar informações detalhadas nos gráficos
+- **Ícones interativos** para facilitar a usabilidade
+- **Formatação condicional** para destaque visual de métricas
+- **Dicas de Ferramentas** para visualizar informações detalhadas nos gráficos
 
 ---
 
