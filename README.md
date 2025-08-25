@@ -19,8 +19,9 @@ Criar um painel interativo que permita explorar dados de clientes e vendas, resp
 
 - **Power BI Desktop**
 - **Power Query** para tratamento e transformação de dados
-- **DAX** para criação de medidas e KPIs personalizados
-- Design de dashboard com navegação entre páginas e filtros dinâmicos
+- **Tabela de medidas** com fórmulas **DAX** para criação de KPIs personalizados
+- **Tabela Calendário** para organização dos dados em formato de data
+- Design com navegação entre páginas e filtros dinâmicos com uso de **indicadores**
 - Ícones interativos para facilitar a usabilidade
 - Formatação condicional para destaque visual de métricas
 - Dicas de Ferramentas para visualizar informações detalhadas nos gráficos
@@ -40,7 +41,7 @@ Criar um painel interativo que permita explorar dados de clientes e vendas, resp
 
 ## 🖼️ Demonstração do Dashboard
 
-![Gif_Dash_Marketing](https://github.com/user-attachments/assets/eab6a59d-57bc-4b9e-945f-dca122b3dd58)
+![Gif_dash_marketing](https://github.com/user-attachments/assets/38fb6502-2d6b-42fd-aae3-b68a602aa3ee)
 
 ---
 
