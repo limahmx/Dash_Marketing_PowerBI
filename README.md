@@ -45,15 +45,15 @@ Criar um painel interativo que permita explorar dados de clientes e vendas, resp
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório 
 
-├── imagens/ # Imagens e/ou GIFs do dashboard
+- [`Imagens`](./Imagens) → Imagens e/ou GIFs do dashboard
 
-├── dados_marketing/ # Base de dados fictícia utilizada no projeto
+- [`dados_marketing`](./dados_marketing) → Base de dados fictícia utilizada no projeto
 
-├── Dash - Marketing_Rev01.pbix # Arquivo do Power BI
+- [`Dash - Marketing_Rev01.pbix`](./Dash-Marketing_Rev01.pbix) → Arquivo do Power BI
 
-└── README.md # Documentação do projeto
+- [`README.md`](./README.md) → Documentação do projeto
 
 ---
 
